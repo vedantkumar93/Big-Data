@@ -1,0 +1,10 @@
+26873	4178 Poe Lane,Lenexa,Kansas,90
+26853	257 Burnside Avenue,Price,Utah,90
+28179	563 Clay Lick Road,Broomfield,Colorado,90
+28156	678 Flanigan Oaks Drive,Reston,Maryland,90
+28162	4075 Hannah Street,Asheville,North Carolina,90
+28160	2399 Thorn Street,Campbell County,Wyoming,90
+6624	3874 Sardis Station,Golden Valley,Minnesota,90
+26768	1535 Ruckman Road,Oklahoma City,Oklahoma,90
+14500	3398 Heliport Loop,Bloomington,Indiana,90
+26828	1547 Hall Street,Las Vegas,Nevada,90
